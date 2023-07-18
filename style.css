@@ -6,3 +6,6 @@
     border: 1px;
     border-color: black;
 }
+body, html {
+    background-color: aqua;
+}
