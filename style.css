@@ -1,0 +1,8 @@
+.heading1 {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+#heading2 {
+    font-size: 30px;
+    border: 1px;
+    border-color: black;
+}
