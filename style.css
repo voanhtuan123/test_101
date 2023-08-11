@@ -21,12 +21,14 @@ body {
     text-align: center;
     margin-top: 20px;
     margin-left: 200px;
- *{
-    box-sizing: border-box;
- }
 }
 .spilt{ 
     width: 48%;
     float: right;
     padding-inline-start: 10px;
 } 
+#header-nav {
+    background-color: burlywood;
+    border-radius: 0;
+    border: 0;
+}
