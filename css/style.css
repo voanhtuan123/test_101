@@ -12,11 +12,12 @@ body {
     text-align: left center;
     background: url("image/yop.jpg")   ;
 }
-#heading2 {
+#heading_2 {
     color: blanchedalmond;
+    background: url("image/yop.jpg");
     background-color: blue;
     border: 20px white;
-    padding: 10px 30px 10px 30px ;
+    padding: 10px 100px 10px 30px ;
     width: 100px;
     text-align: center;
     margin-top: 20px;
@@ -32,3 +33,23 @@ body {
     border-radius: 0;
     border: 0;
 }
+#logo-img {
+    width: 100px;
+}
+.container {
+    margin-left: 5px;
+}
+.navbar-brand {
+    font-size: smaller;
+    float:right;
+    margin: 10px;
+    text-decoration: none;
+}
+#name-brand {
+    font-size: 25px;
+    font-family: 'times new roman';
+    color: black;
+    margin-bottom: 0;
+
+}
+
